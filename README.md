@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/cceba9bb-a805-487b-9303-d6801a2c926b)
+
 # An-Efficient-Spam-detectection-techniques-for-IOT-devices-using-MachineLearning
 ## 1.1 PROJECT SCOPE
 
@@ -42,4 +44,9 @@ reliability and trustworthiness.
 • Adaptability: The framework considers climatic variations, allowing it to adapt 
 to different environmental conditions, which enhances its effectiveness across
  diverse scenarios.
+![image](https://github.com/user-attachments/assets/09b40146-bc20-4663-ab15-5af30f88a6cd)
+![image](https://github.com/user-attachments/assets/a5ca2157-b8b5-4f20-a26d-d1fcd167d8b9)
+![image](https://github.com/user-attachments/assets/615211d8-40c8-46e6-9056-dd8c995774a7)
+
+
 
